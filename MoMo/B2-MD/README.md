@@ -6,6 +6,6 @@ Fortran programs to perform molecular dynamics of Lennard Jones liquid and Pytho
 
 `thermo.ipynb` is a Pyhton notebook that reads and analyzed the output files.
 
-In `/runs1` and `/runs2` are available som examples of different runs and analysisof the part 1 and 2, respectively, of the task.
+In `/runs1` and `/runs2` are available som examples of different runs and analysis of the part 1 and 2, respectively, of the task.
 
 
