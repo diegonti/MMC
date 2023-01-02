@@ -1,0 +1,15 @@
+
+Average: <E>/N = -1.7455537134624786 +/- 9.311126529112381e-05
+Optimized fit parameters for E: [9.31112653e-05 4.21621142e-05 8.63863603e+00]
+Statistical Error:    9.311126529112381e-05
+Autocorrelation time: 8.638636032026977
+
+Average: <|M|>/N = 0.9113362207635434 +/- 7.45487106388661e-05
+Optimized fit parameters for |M|: [7.45487106e-05 4.91281951e-05 1.02877642e+01]
+Statistical Error:    7.45487106388661e-05
+Autocorrelation time: 10.287764191145612
+
+<E>: First 5 values of Block STD: [5.39242412e-05 6.02797266e-05 6.82676396e-05 7.68743891e-05
+ 8.49844393e-05]
+<|M|>: First 5 values of Block STD: [2.76466422e-05 3.46824559e-05 4.35167834e-05 5.31820804e-05
+ 6.25650048e-05]
